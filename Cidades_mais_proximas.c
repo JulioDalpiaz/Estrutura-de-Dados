@@ -236,6 +236,7 @@ void nome_apaga(tnome* lista){
     }
 }
 
+//KDtree
 typedef struct _tnode{
     tcidades* valor;
     struct _tnode *esq;
